@@ -1,5 +1,5 @@
 <h1 align="center">
-  🛠️ masdevan
+  masdevan
 </h1>
 
 <p align="center">
