@@ -7,7 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Vanilla%20JS-%23facc15?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Coffee%20Level-Over%209000%20☕-%23b45309?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Framework-Free-%23734bd2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBukh1Sh5QYaFIs/giphy.gif" width="400" alt="coding gif"/>
 </p>
