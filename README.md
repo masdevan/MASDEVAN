@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/Pascal-512BD4?style=for-the-badge&logo=pascal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <br/>
 
   <!-- Python stack -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
